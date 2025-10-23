@@ -1,0 +1,14 @@
+{
+  "name": "saucedemo_e2e_testing_cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Md. Abir Hossain Bony",
+  "dependencies": {
+    "cypress": "^15.5.0"
+  }
+}
